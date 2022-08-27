@@ -3,7 +3,7 @@ I'm a young French developer who likes to evolve day by day ❤
 My name is Geoffrey, I'm 18 years old and I've been a fullstack web developer for 1 year now and Java for 4 years!
 
 *   🌍  I'm based in Agde - France
-*   🖥️  See my portfolio at [Devausorus](https://mooncode.fr/)
+*   🖥️  See my portfolio at [Mooncode](https://mooncode.fr/)
 *   ✉️  You can contact me at [geoffreyheuch@gmail.com](mailto:geoffreyheuch@gmail.com)
 *   🚀  I'm currently working on [MoonCode](https://www.mooncode.fr/)
 *   🧠  I'm learning React, Adonis
@@ -13,7 +13,7 @@ My name is Geoffrey, I'm 18 years old and I've been a fullstack web developer fo
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/MrGeoffreyH" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/damien-foulon/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/geoffrey-heuchenne-a2440024a/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://stackoverflow.com/users/19860211/geoffreyh" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
@@ -37,7 +37,7 @@ My name is Geoffrey, I'm 18 years old and I've been a fullstack web developer fo
 # 🔗 Follow me
 [![Twitter Follow](https://img.shields.io/twitter/follow/GeoffreyHeu?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/GeoffreyHey)
 [![Github Follow](https://img.shields.io/github/followers/MrGeoffreyH?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/MrGeoffreyH)
-[![Linkedin Follow](https://img.shields.io/static/v1?label=Linkedin&message=Baptiste%20Parmantier&color=0896EC&logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/baptiste-parmantier/)
+[![Linkedin Follow](https://img.shields.io/static/v1?label=Linkedin&message=Geoffrey%20Heuchenne&color=0896EC&logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/geoffrey-heuchenne-a2440024a/)
 [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Mr.GeoffreyH%236303&color=7289DA&logo=Discord&style=for-the-badge)]()
 
 # Freelance
