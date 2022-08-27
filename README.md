@@ -41,4 +41,4 @@ My name is Geoffrey, I'm 18 years old and I've been a fullstack web developer fo
 [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Mr.GeoffreyH%236303&color=7289DA&logo=Discord&style=for-the-badge)]()
 
 # Freelance
-[![MoonCode.fr]([http://image.noelshack.com/fichiers/2022/34/7/1661644603-moonlogo.png](https://www.mooncode.fr/)
+[![MoonCode.fr]([http://image.noelshack.com/fichiers/2022/34/7/1661644603-moonlogo.png])(https://www.mooncode.fr/)
