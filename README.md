@@ -93,11 +93,12 @@ My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about co
 <br/>
 <br/>
 
-# 🔗 Follow me
+# 🔗 Join me
 [![Twitter Follow](https://img.shields.io/twitter/follow/GeoffreyHeu?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/GeoffreyHey)
 [![Github Follow](https://img.shields.io/github/followers/MrGeoffreyH?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/MrGeoffreyH)
 [![Linkedin Follow](https://img.shields.io/static/v1?label=Linkedin&message=Geoffrey%20Heuchenne&color=0896EC&logo=Linkedin&style=for-the-badge)](https://www.linkedin.com/in/geoffrey-heuchenne-a2440024a/)
-[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Mr.GeoffreyH%236303&color=7289DA&logo=Discord&style=for-the-badge)]()
+[![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=Mr.GeoffreyH%236303&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.bio/p/geoffreyh)
+[![website](https://img.shields.io/static/v1?label=Website&message=www.geoffreyh.be&color=green&labelColor=darkgreen&style=for-the-badge)](https://www.byxus.net)
 
 <br/>
 <br/>
@@ -110,3 +111,8 @@ My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about co
 # Freelance
 <a href="https://www.mooncode.fr/" target="_blank" rel="noreferrer">
     <img src="http://image.noelshack.com/fichiers/2022/34/7/1661644603-moonlogo.png" width="64" height="64" /></a>
+    
+<br/>
+<br/>
+
+###                                                   Made with ❤ by GeoffreyH
