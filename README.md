@@ -110,8 +110,8 @@ My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about co
 <br/>
 
 # Freelance
-<a href="https://www.mooncode.fr/" target="_blank" rel="noreferrer">
-    <img src="http://image.noelshack.com/fichiers/2022/34/7/1661644603-moonlogo.png" width="64" height="64" /></a>
+<a href="https://www.ghwebsolutions.fr/" target="_blank" rel="noreferrer">
+    <img src="https://image.noelshack.com/fichiers/2024/51/7/1734876796-log.png" width="64" height="64" /></a>
     
 <br/>
 <br/>
