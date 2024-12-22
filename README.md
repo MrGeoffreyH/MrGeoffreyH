@@ -9,12 +9,12 @@
 
 My name is Geoffrey and my nickname is Geoffrey.H, I've been passionate about computers since I was a kid and I've been developing things ever since. Starting with Java, I continued with web development which I find really exciting, being able to create an application super easily and which is also complete. Otherwise I have been developing for some time (2014) projects for game servers mainly (see my achievements) and I am available for work!
 
-*   🌍  I'm based in Vias - France
-*   🧠  I'm student school in [42 Perpignan](https://42perpignan.fr/), school founded by [Xavier Niel](https://fr.wikipedia.org/wiki/Xavier_Niel)
-*   🖥️  See my portfolio at [Mooncode](https://mooncode.fr/)
-*   ✉️  You can contact me at [geoffreyheuch@gmail.com](mailto:geoffreyheuch@gmail.com)
-*   🚀  I'm currently working on [MoonCode](https://www.mooncode.fr/)
-*   🧠  I'm learning React, Adonis
+*   🌍  I'm based in Narbonne - France
+*   🧠  I am a former student of the school [42 Perpignan](https://42perpignan.fr/), school founded by [Xavier Niel](https://fr.wikipedia.org/wiki/Xavier_Niel)
+*   🖥️  See my portfolio at [GH Web Solutions](https://www.ghwebsolutions.fr/)
+*   ✉️  You can contact me at [contact@ghwebsolutions.fr](mailto:contact@ghwebsolutions.fr)
+*   🚀  I'm currently working on [GH Web Solutions](https://www.ghwebsolutions.fr/)
+*   🧠  I'm learning React, Adonis, NextJS, TypeScript and others
 
 <br/>
 <br/>
